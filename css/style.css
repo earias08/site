@@ -2,3 +2,14 @@
 html {
     scroll-behavior: smooth;
 }
+
+.fondo{
+    background-color: #21D4FD;
+background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 50%);
+
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
